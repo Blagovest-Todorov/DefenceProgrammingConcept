@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\bin\Debug\netcoreapp3.1\DefenseProgramming.exe
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\bin\Debug\netcoreapp3.1\DefenseProgramming.deps.json
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\bin\Debug\netcoreapp3.1\DefenseProgramming.runtimeconfig.json
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\bin\Debug\netcoreapp3.1\DefenseProgramming.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\bin\Debug\netcoreapp3.1\DefenseProgramming.dll
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\bin\Debug\netcoreapp3.1\DefenseProgramming.pdb
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\obj\Debug\netcoreapp3.1\DefenseProgramming.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\obj\Debug\netcoreapp3.1\DefenseProgramming.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\obj\Debug\netcoreapp3.1\DefenseProgramming.AssemblyInfo.cs
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\obj\Debug\netcoreapp3.1\DefenseProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\obj\Debug\netcoreapp3.1\DefenseProgramming.dll
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\obj\Debug\netcoreapp3.1\DefenseProgramming.pdb
+C:\Users\Bla\source\repos\QualityProgramingCode\DefenseProgramming\obj\Debug\netcoreapp3.1\DefenseProgramming.genruntimeconfig.cache
